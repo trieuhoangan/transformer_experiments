@@ -1,0 +1,1 @@
+tensorboard --logdir=$HOME/checkpoint/dep_transformer --port=5003
